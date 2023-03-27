@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alkhalig-flower.github.io/sitemap.xml
